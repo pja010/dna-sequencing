@@ -1,5 +1,6 @@
-Caroline Frank, Christina Steinberg, Per Astrom, Will Zhao
-CSCI 311 - Design and Analysis of Algorithms
+# DNA Sequencing Project
+Caroline Frank, Christina Steinberg, Per Astrom, Will Zhao -
+CSCI 311: Design and Analysis of Algorithms
 
 ## Run Instructions
 To compile and run the code in the command line:
