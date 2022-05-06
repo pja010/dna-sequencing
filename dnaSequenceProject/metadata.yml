@@ -1,0 +1,18 @@
+---
+:id: 98081075
+:submitters:
+- :name: Per Astrom
+  :email: pja010@bucknell.edu
+- :name: Will Zhao
+  :email: cz015@bucknell.edu
+- :name: Caroline Frank
+  :email: cjf028@bucknell.edu
+- :name: Christina Steinberg
+  :email: ces051@bucknell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-03 23:40:21.521692000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-03 16:40:21.521692000 Z
+:status: processed
+:score: 18.0
